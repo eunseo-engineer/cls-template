@@ -1,0 +1,7 @@
+{
+    "project_slug": "news_classifier",
+    "project_name": "News Classification Project",
+    "description": "한국 뉴스 분류 프로젝트 템플릿",
+    "author_name": "이름 입력",
+    "include_api": ["yes", "no"]
+  }

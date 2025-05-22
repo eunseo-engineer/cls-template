@@ -1,3 +1,6 @@
+# {{ cookiecutter.project_name }}
+
+{{ cookiecutter.description }}
 # DS Cookiecutter Template 🧠📦
 
 데이터사이언스 팀의 "딸깍" 프로젝트 시작용 템플릿입니다.

@@ -4,3 +4,5 @@ pandas
 scikit-learn
 torch
 transformers
+mlflow
+tensorboard
